@@ -1,0 +1,6 @@
+{
+  "name": "BookMyTemples – Admin Portal",
+  "description": "Operational visibility and controlled management portal for BookMyTemples platform operations and temple teams to manage bookings, offerings, and settlements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
